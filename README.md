@@ -3,16 +3,6 @@
 <!-- **Part of the [ambitus Intelligence](https://github.com/ambitus-intelligence) Ecosystem** -->
 Ambitus Intelligence is a TUI‑first Python package and multi‑agent market research engine that orchestrates validated data collection, analysis, and report synthesis into citation‑rich PDF reports.
 
-**Technical diagrams** : [Flowcharts](docs/assets/flowcharts)\
-**UML of Ambitus** : [Ambitus-AI](docs/assets/flowcharts/ambitus_UML.svg)
-<!--
- https://github.com/user-attachments/assets/c2d9086c-011c-4acd-bf9a-cad3c84a2968 
- https://github.com/user-attachments/assets/c726dbdf-9a5a-4c23-b34e-ae9926976c21
--->
-
-
-https://github.com/user-attachments/assets/0b6cd0a2-a02f-4ea1-8fdb-6f51012f2fad
-
 
 This repository contains AI/ML models, experiments, and tools powering **ambitus Intelligence**'s market research automation platform.  
 All exploratory work, prototypes, and notebooks are organized under `/notebooks`.
@@ -48,18 +38,6 @@ All exploratory work, prototypes, and notebooks are organized under `/notebooks`
 | **CitationAgent** *(Tool)*     | On‑demand retrieval of citations or data snippets, serving all agents via the MCP tool server.          |
 ---
 
-## 📖 Documentation
-
-- **Docs Index**: [docs/README.md](docs/README.md)  
-- **System Overview**: [docs/system_overview.md](docs/system_overview.md)  
-- **Agent Specifications**: [docs/agent_specs.md](docs/agent_specs.md)
-
-##### Legacy Notion (for archival reference only):  
-- [General Overview][notion-general]
-- [Agent Details][notion-agents]  
-
-[notion-general]: https://vedantcantsleep.notion.site/ambitus
-[notion-agents]: https://vedantcantsleep.notion.site/Architecture-1f11629c6c5081a5b6edfef830af579f  
 
 ---
 ## 📁 Repository Structure
@@ -114,8 +92,6 @@ ambitus-ai-models/
 
 
 ---
-Part of the Next-Gen Market Intelligence Suite
 
-[ambitus Intelligence](https://github.com/ambitus-intelligence) | [Documentation](https://github.com/ambitus-intelligence) | [Main Repository](https://github.com/ambitus-intelligence)
 
 
