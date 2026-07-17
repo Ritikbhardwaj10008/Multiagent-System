@@ -1,0 +1,11 @@
+.venv
+.venv_win
+.venv_wsl
+.env
+__pycache__/
+temp.py
+gtk-runtime.nupkg
+gtk2-runtime.exe
+gtk-runtime-pkg/
+docs/
+myenv/
