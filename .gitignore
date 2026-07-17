@@ -9,3 +9,4 @@ gtk2-runtime.exe
 gtk-runtime-pkg/
 docs/
 myenv/
+src/ambitus_cli.egg-info/
